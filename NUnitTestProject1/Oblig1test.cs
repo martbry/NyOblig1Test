@@ -1,7 +1,7 @@
 using NUnit.Framework;
 using Oblig1Test;
 
-namespace NUnitTestProject1
+namespace NUnitTestNyOblig1
 {
     public class PersonTest
     {
